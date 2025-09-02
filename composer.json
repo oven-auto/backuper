@@ -2,7 +2,7 @@
     "name": "oven-auto/backuper",
     "description": "Make backup database.",
     "type": "library",
-    "license": "free",
+    "license": "mit",
     "autoload": {
         "psr-4": {
             "OvenAuto\\Backuper\\": "src/"
